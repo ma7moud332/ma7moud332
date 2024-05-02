@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahmoud___4" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud___4?logo=twitter&style=for-the-badge" alt="mahmoud___4" /></a> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Advanced topics in Android development.**
 
 - 💬 Ask me about **Android**
 
