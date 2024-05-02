@@ -9,9 +9,6 @@
 
 <img align="right" alt="Coding" width="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUxM2MwNjE1MmE0MzdiOTM3YzQwZGU3NDE1YzdiMDJiYzc2NjI4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma7moud332&label=Profile%20views&color=0e75b6&style=flat" alt="ma7moud332" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mahmoud___4" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud___4?logo=twitter&style=for-the-badge" alt="mahmoud___4" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced topics in Android development.**
 
