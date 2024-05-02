@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Advanced topics in Android development.**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Kotlin, Android Framework.**
 
 - 📫 How to reach me **mahmodreda450@gmail.com**
 
