@@ -3,8 +3,13 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=18A8F7&center=true&vCenter=true&width=435&lines=Android+Developer+%F0%9F%93%B1" alt="Typing SVG" /></a>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUxM2MwNjE1MmE0MzdiOTM3YzQwZGU3NDE1YzdiMDJiYzc2NjI4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif">
+
+
 
 
 
