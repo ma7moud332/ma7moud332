@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A passionate Native Android developer</h3>
+<h3 align="center">A passionate Flutter developer</h3>
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Advanced topics in Android development.**
 
-- 💬 Ask me about **Kotlin, Android Framework.**
+- 💬 Ask me about **Dart, Flutter Framework.**
 
 - 📫 How to reach me **mahmodreda450@gmail.com**
 
